@@ -23,7 +23,6 @@ Este proyecto es una aplicación de consola desarrollada en C, que simula un ges
     2. Se abrirá el programa en consola.
 
 ---
-Autor: Lucas Duran
 
 Fecha: 25 de junio de 2025
 
